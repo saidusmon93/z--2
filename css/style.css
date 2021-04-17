@@ -43,7 +43,7 @@
 .section_bg {
   padding-top: 65px;
   background-color: rgba(0.55);
-  background-image: url(https://zucco.tech/img/pic1-1920-top-bg.jpg);
+  background-image: url(/img/bg.jpeg);
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
